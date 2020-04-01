@@ -4,6 +4,10 @@
 
 ## Demo: https://covid19-cr.herokuapp.com/
 
+## Using the web service from :
+
+https://pomber.github.io/covid19/timeseries.json
+
 ## Project setup
 ```
 npm install
