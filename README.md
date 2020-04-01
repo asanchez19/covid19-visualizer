@@ -1,5 +1,9 @@
 # covid19-visualizer
 
+## Author: Ing. Alejandro Sanchez.
+
+## Demo: https://covid19-cr.herokuapp.com/
+
 ## Project setup
 ```
 npm install
